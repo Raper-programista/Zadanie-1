@@ -1,0 +1,8 @@
+Napisać program w C++ który:
+Wyświetli zawartość pliku ciągi.txt, po myślniku
+Obliczy ilość 1 i 0 w całym pliku
+Znajdzie ciąg, w którym jest najwięcej znaków 1
+Sprawdzi, czy są co najmniej dwa takie same ciągi
+Wypisze wszystkie ciągi składające się wyłącznie ze znaków 1
+Jaką największą liczbę dziesiętną zapisano w pliku
+
